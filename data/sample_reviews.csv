@@ -1,0 +1,92 @@
+sentence,aspect_term,sentiment
+"The battery is bad but the camera is excellent",battery,negative
+"The battery is bad but the camera is excellent",camera,positive
+"Great food and friendly staff",food,positive
+"Great food and friendly staff",staff,positive
+"The display is beautiful but battery life is poor",display,positive
+"The display is beautiful but battery life is poor",battery life,negative
+"Excellent product with good build quality",product,positive
+"Excellent product with good build quality",build quality,positive
+"The price is too high",price,negative
+"Service was decent, nothing special",service,neutral
+"Amazing camera quality but mediocre performance",camera quality,positive
+"Amazing camera quality but mediocre performance",performance,negative
+"Poor customer service and bad warranty",customer service,negative
+"Poor customer service and bad warranty",warranty,negative
+"The interface is intuitive and responsive",interface,positive
+"The interface is intuitive and responsive",responsiveness,positive
+"Battery drains quickly",battery,negative
+"Screen is scratched easily",screen,negative
+"Good value for money",value,positive
+"The keyboard is uncomfortable",keyboard,negative
+"Excellent features but confusing menu",features,positive
+"Excellent features but confusing menu",menu,negative
+"Best buy of the year",product,positive
+"Screen is too small for the price",screen,negative
+"Support team was very helpful",support team,positive
+"Charging cable breaks too often",charging cable,negative
+"Colors are vibrant and accurate",colors,positive
+"Touchscreen is sometimes unresponsive",touchscreen,negative
+"Spacious and well-designed",design,positive
+"Gets hot after prolonged use",temperature,negative
+"Lightweight and portable",portability,positive
+"Buttons feel cheap and plasticky",buttons,negative
+"Great battery life overall",battery life,positive
+"Speakers sound crystal clear",speakers,positive
+"Processor is fast and smooth",processor,positive
+"Microphone picks up too much background noise",microphone,negative
+"Storage capacity is impressive",storage,positive
+"Camera night mode is exceptional",camera,positive
+"WiFi connection drops frequently",wifi,negative
+"Display is vibrant with great colors",display,positive
+"Fan noise is annoying during gaming",fan,negative
+"Memory management is excellent",memory,positive
+"Warranty coverage is disappointing",warranty,negative
+"Build feels solid and premium",build,positive
+"Cooling system could be better",cooling,negative
+"Text is crisp and clear on screen",display,positive
+"Applications load instantly",performance,positive
+"Design could be more ergonomic",design,negative
+"Audio quality exceeds expectations",audio,positive
+"Trackpad is responsive and accurate",trackpad,positive
+"Plastic feels cheap and flimsy",materials,negative
+"Boot time is incredibly fast",performance,positive
+"Updates are frequency but buggy",updates,negative
+"Keyboard typing experience is excellent",keyboard,positive
+"Overheats when under heavy load",heat,negative
+"Display refresh rate is smooth",display,positive
+"Customer service representatives are knowledgeable",customer service,positive
+"Screen protector application left bubbles",screen protector,negative
+"Battery lasts all day easily",battery,positive
+"Mute button location is inconvenient",design,negative
+"Colors pop beautifully on screen",display,positive
+"Controls are intuitive and simple",controls,positive
+"Bloatware comes pre-installed",software,negative
+"Lens quality is outstanding",lens,positive
+"Fingerprints show easily on shell",materials,negative
+"Software updates improve performance",software,positive
+"Hardware reliability is questionable",hardware,negative
+"Network connectivity is stable",connectivity,positive
+"User interface is clunky and slow",interface,negative
+"Graphics rendering is smooth",graphics,positive
+"Sound distorts at high volume",audio,negative
+"Memory never fills up with usage",memory,positive
+"Plastic back cracks easily",durability,negative
+"Display brightness is fantastic",display,positive
+"Frame rate drops during games",performance,negative
+"Built-in storage provides enough space",storage,positive
+"Missing essential accessories",accessories,negative
+"Camera produces sharp detailed photos",camera,positive
+"Battery charges slowly",battery,negative
+"Operating system is very stable",os,positive
+"Hard to clean hidden areas",design,negative
+"Screen resolution is incredibly sharp",display,positive
+"Lag appears occasionally",performance,negative
+"Expandable storage is convenient",storage,positive
+"Speaker placement causes muffled sound",speakers,negative
+"Fast and snappy all around",speed,positive
+"Gets very slippery without case",materials,negative
+"Color reproduction is accurate",display,positive
+"Freezes randomly without warning",stability,negative
+"Paint easily scrapes off",durability,negative
+"Scientific color accuracy",display,positive
